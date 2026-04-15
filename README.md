@@ -101,7 +101,7 @@ Create a `.env` file in the project root:
 
 ```
 GIST_ID=YOUR_GIST_ID
-GITHUB_TOKEN=YOUR_GITHUB_TOKEN
+GIT_TOKEN=YOUR_GITHUB_TOKEN
 STRAVA_ATHLETE_ID=YOUR_STRAVA_ATHLETE_ID
 STRAVA_REFRESH_TOKEN=YOUR_REFRESH_TOKEN
 STRAVA_CLIENT_ID=YOUR_CLIENT_ID
@@ -112,12 +112,12 @@ UNITS=miles
 **Environment Variables:**
 
 - `GIST_ID` — Your GitHub gist ID
-- `GITHUB_TOKEN` — Your GitHub personal access token
+- `GIT_TOKEN` — Your GitHub personal access token
 - `STRAVA_ATHLETE_ID` — Your Strava athlete ID (found on your Strava profile)
 - `STRAVA_REFRESH_TOKEN` — Your refresh token (from Step 4 above)
 - `STRAVA_CLIENT_ID` — Your Strava app Client ID
 - `STRAVA_CLIENT_SECRET` — Your Strava app Client Secret
-- `UNITS` — `miles` or `kilometers` (default: `kilometers`)
+- `UNITS` — `miles` or `kilometers` (default: `kilometers`)1
 
 ## Usage
 

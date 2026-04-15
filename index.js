@@ -4,7 +4,7 @@ const fs = require("fs");
 
 const {
   GIST_ID: gistId,
-  GITHUB_TOKEN: githubToken,
+  GIT_TOKEN: githubToken,
   STRAVA_ATHLETE_ID: stravaAtheleteId,
   STRAVA_ACCESS_TOKEN: stravaAccessToken,
   STRAVA_REFRESH_TOKEN: stravaRefreshToken,
