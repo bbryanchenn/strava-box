@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://i.imgur.com/zNUgbxe.png">
+  <img width="400" src="https://raw.githubusercontent.com/bbryanchenn/strava-box/main/pic.png" alt="Strava Box">
   <h3 align="center">strava-box</h3>
   <p align="center">Update a gist to contain your latest Strava activities</p>
 </p>
