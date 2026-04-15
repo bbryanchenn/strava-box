@@ -22,7 +22,7 @@ jobs:
         run: npm start
         env:
           GIST_ID: ${{ secrets.GIST_ID }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
           STRAVA_ATHLETE_ID: ${{ secrets.STRAVA_ATHLETE_ID }}
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
